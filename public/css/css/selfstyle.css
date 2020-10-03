@@ -476,3 +476,7 @@ text-align: center!important;
     display: none;
   }
 }
+.title{
+background-color : #ffffff;
+display : inline-block;
+}
