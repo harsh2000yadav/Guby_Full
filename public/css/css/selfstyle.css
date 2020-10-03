@@ -145,8 +145,8 @@ text-align: center!important;
     color: #f1971f;
     position: absolute;
     top: -60px;
-    left: 0;
-    right: 0;
+    left: 10;
+    right: 10;
 }
 .testimonial .title{
     padding: 7px 0;
